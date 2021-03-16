@@ -14,6 +14,7 @@ I'm Zanoni and I currently work remotely as a Site Reliability Engineer. Check o
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
 ![Ansible](https://img.shields.io/badge/-Ansible-000000?style=flat-square&logo=ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
+![Jenkins](https://img.shields.io/badge/-Jenkins-FFFFFF?style=flat-square&logo=jenkins)
 ![Amazon Web Services](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000000?style=flat-square&logo=elasticsearch)
