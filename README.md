@@ -13,6 +13,6 @@ I'm Zanoni and I currently work remotely as a Site Reliability Engineer. Check o
 
 ## 🛠 My favorite tools
 ![notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion)
-![todoist](https://img.shields.io/badge/-todoist-E44332?style=flat-square&logo=todoist)
+![todoist](https://img.shields.io/badge/-todoist-FFFFFF?style=flat-square&logo=todoist)
 
 Contact me via email: zanoni.contreras@gmail.com
