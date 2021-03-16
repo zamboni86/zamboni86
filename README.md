@@ -2,13 +2,13 @@ Hello!
 
 I'm Zanoni and I currently work remotely as a Site Reliability Engineer. Check out some of my favorite skills/hobbies below:
 
-## 👨‍💻 Programming languages/frameworks
+## 💻 Programming languages/frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![Go](https://img.shields.io/badge/--000000?style=flat-square&logo=go)
 
-## 👨‍💻 Technologies
+## 🔌 Technologies
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
